@@ -1,6 +1,6 @@
 {
   "name": "tutorepo-rim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tutorial repo",
   "main": "./index.js",
   "homepage": "https://github.com/resin-io-modules/procbots-private-test",
