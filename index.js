@@ -1,2 +1,2 @@
 console.log('Test string');
-soconsole.log('second line');
+console.log('second line');
